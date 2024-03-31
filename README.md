@@ -53,6 +53,10 @@ A base de dados final exportada está disponível no arquivo:
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84551213/171416454-ab93ab7f-e5a0-4276-81ec-4f5cb79dff31.png" alt="logo da reprograma" width="200">
+</p>
+
 Para mais informações e recursos adicionais, visite o site da [{Reprograma}](https://reprograma.com.br).
 
 ![Reprograma Logo](https://reprograma.com.br/assets/img/logo.png)
