@@ -57,7 +57,11 @@ A base de dados final exportada está disponível no arquivo:
   <img src="https://user-images.githubusercontent.com/84551213/171416454-ab93ab7f-e5a0-4276-81ec-4f5cb79dff31.png" alt="logo da reprograma" width="200">
 </p>
 
-Para mais informações e recursos adicionais, visite o site da [{Reprograma}](https://reprograma.com.br).
+
+Reduzindo a lacuna
+de gênero no setor de
+tecnologia por meio
+da educação [{Reprograma}](https://reprograma.com.br).
 
 
 
