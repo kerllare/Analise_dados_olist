@@ -59,5 +59,5 @@ A base de dados final exportada está disponível no arquivo:
 
 Para mais informações e recursos adicionais, visite o site da [{Reprograma}](https://reprograma.com.br).
 
-![Reprograma Logo](https://reprograma.com.br/assets/img/logo.png)
+
 
