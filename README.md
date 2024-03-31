@@ -58,10 +58,11 @@ A base de dados final exportada está disponível no arquivo:
 </p>
 
 
-Reduzindo a lacuna
+ [{Reprograma}](https://reprograma.com.br):
+ Reduzindo a lacuna
 de gênero no setor de
 tecnologia por meio
-da educação [{Reprograma}](https://reprograma.com.br).
+da educação.
 
 
 
